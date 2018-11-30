@@ -1,4 +1,4 @@
-# Simple-web-crawler
+# Simple-web-crawler-for-ICD-code-and-provider-info
 
 ## Methods:
 Use request to pull text from webpage, then use NLTK, beautiful soup and regular expression to parse and extract desired information.
