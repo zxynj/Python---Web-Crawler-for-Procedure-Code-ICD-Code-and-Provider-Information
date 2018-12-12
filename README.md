@@ -1,4 +1,4 @@
-# Web crawler for procedure code (CPT), ICD code and provider info
+# Web Crawler for Procedure Code (CPT), ICD Code and Provider Information
 
 ## Methods:
 Use request to pull text from webpage, then use NLTK, beautiful soup and regular expression to parse and extract desired information.
